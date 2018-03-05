@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Zombie
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1976745359
+    locked: 0
+  - name: Players
+    uniqueID: 1482597959
+    locked: 0
+  - name: Enemies
+    uniqueID: 862883961
+    locked: 0
+  - name: FX
+    uniqueID: 2401297273
+    locked: 0
+  - name: Bullets
+    uniqueID: 3904938237
+    locked: 0
+  - name: Foreground
+    uniqueID: 119385369
     locked: 0
